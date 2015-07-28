@@ -1,0 +1,8 @@
+name = Simple Image Formatter
+description = This image formatter prints only a simple image tag, optionally enclosed in an anchor tag.
+core = 7.x
+package = Fields
+php = 5.2.4
+version = 7.x-1.0
+project = spry_simple_image_formatter
+dependencies[] = image
