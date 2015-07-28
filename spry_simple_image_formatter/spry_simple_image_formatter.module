@@ -11,7 +11,7 @@ function spry_simple_image_formatter_field_formatter_info() {
       'settings' => array('image_style' => '', 'image_link' => ''),
     ),
   );
-  drupal_set_message(t('Executed hook_field_formatter_info.'), 'warning');
+
   return $formatters;
 }
 
